@@ -2,3 +2,5 @@ NIZAM RESOLUSI
 - Konsisten mempelajari coding setiap hari
 - Membuat road map mempelajari bahasa pemrograman yang akan di pelajari
 - membuat mini projek dalam jangka waktu dekat
+- mempelajari html 
+- mempelajari css
